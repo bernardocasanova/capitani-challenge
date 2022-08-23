@@ -22,8 +22,8 @@ class Main {
             board.winner = winner;
             return;
           }
+          board.play(player, board);
         }
-        board.play(player, board);
       });
       board.roundsPlayed += 1;
     }
