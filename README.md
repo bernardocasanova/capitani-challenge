@@ -101,5 +101,3 @@ http://localhost:8080/game/simulate
 ## Author
 
 - [@bgcasanova](https://www.github.com/bernardocasanova)
-
-
