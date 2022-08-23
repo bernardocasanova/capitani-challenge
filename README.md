@@ -43,6 +43,7 @@ The defined behaviors are:
 If the game takes a long time, as is usual in games of this nature, the game ends on the thousandth round with the victory of the player with the most balance.
 
 ### Setup
+> After clone project, rename the file `.env.example` to `.env`.
 
 > On terminal, at same directory as cloned the project, run the command below (need a docker installed on machine):
 ```shell
